@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcelo\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "c:\\Users\\Marcelo\\Documents\\gitpath\\webcsharpAzure\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Marcelo\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "c:\\Users\\Marcelo\\Documents\\gitpath\\webcsharpAzure\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcelo\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "c:\\Users\\Marcelo\\Documents\\gitpath\\webcsharpAzure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
